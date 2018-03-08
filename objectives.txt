@@ -11,3 +11,5 @@ Class Objectives
 * New objective
 
 * Some other objective 2
+
+* Yet another objective
