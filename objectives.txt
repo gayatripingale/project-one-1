@@ -7,3 +7,5 @@ Class Objectives
 * Students will be able to open a PR against a given branch.
 
 * Students will be able to use Git's stash feature to save "dirty" work.
+
+* New objective
