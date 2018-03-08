@@ -1,4 +1,4 @@
-Class Objectives
+Super Great Class Objectives
 
 * Students will resolve merge conflicts in their working copy.
 
