@@ -13,3 +13,5 @@ Super Great Class Objectives
 * Some other objective 2
 
 * Yet another objective
+
+.
