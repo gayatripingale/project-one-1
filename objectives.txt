@@ -1,0 +1,9 @@
+Class Objectives
+
+* Students will resolve merge conflicts in their working copy.
+
+* Students will push branches to GitHub.
+
+* Students will be able to open a PR against a given branch.
+
+* Students will be able to use Git's stash feature to save "dirty" work.
